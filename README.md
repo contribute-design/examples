@@ -19,8 +19,8 @@ We're trying to consolidate a solid list of templates and guidelines for open so
 You can find the guides right here:
 
 - [**Minimal**](/1-minimal/.design) – A sample with the least amount of information designers require to be able to collaborate.
-- [**Basic**] (/2-basic/.design) – A basic example of proper design contribution guidelines.
-- [**Extended**] (/1-extended/.design) – Use this if you really want to shine at designers.
+- [**Basic**](/2-basic/.design) – A basic example of proper design contribution guidelines.
+- [**Extended**](/1-extended/.design) – Use this if you really want to shine at designers.
 - **Fully Fledged** (TBD) – We still don't know how far to go here 😀
 
 ## ❤️ Contribute to our guides
