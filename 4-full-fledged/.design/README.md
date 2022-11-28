@@ -12,12 +12,18 @@ ACME is a product targeted to every single person on earth. Since we manufacture
 
 Esessiantially this section here should give people a blurb about your project, what it does and what the mission of it is.
 
+## Design System
+
+All of our design principles and other required materials can be found in our Design System here: https://
+
 ## 📖 Table of contents
 
-- [🚢 How to contribute design](0.process.md)
-- [💅 Design relevant materials & basics](1.basics.md)
-- [🔬 Research & Context for Design work](2.research.md)
-- [🚀 UI Guidelines, Files and Mockups](3.ui.md)
+- [🚢 How to contribute design](0-process/README.md)
+- [💅 Design relevant materials & basics](1-basics/README.md)
+- [🔬 Research & Context for Design work](2-research/README.md)
+- [🔀 Flow Diagrams & User journeys](3-flow-diagrams-journeys/README.md)
+- [🚀 UI Guidelines, Files and Mockups](4-user-interface/README.md)
+- [🖥️ CLI Design Guidelines](5-cli/README.md)
 - [🎓 License](#-license)
 
 ## 🎓 License
