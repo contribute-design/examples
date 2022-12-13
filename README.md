@@ -22,10 +22,10 @@ Keep in mind – the intention here is to have designers participate in creating
 
 Our guides include the following building blocks: 
 
-1. GitHub Issue Template
+1. **GitHub Issue Template** - 
 A template for new issues created within your repository which helps designers to phrase their thoughts in a more structured way.
 
-2. Design guidelines
+2. **Design guidelines** -
 The juice for every designer. It should contain enough information and context on your project to help designers start contributing.
 
 
