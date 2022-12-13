@@ -16,14 +16,31 @@ We're trying to consolidate a solid list of templates and guidelines for open so
 
 Keep in mind – the intention here is to have designers participate in creating and extending these docs.
 
-## 💅 The guides
+> We encourage you to start small with our Minimal template and extend your setup over time to the more sophisticated guides.
+
+## 🗄 What's in the box?
+
+Our guides include the following building blocks: 
+
+1. GitHub Issue Template
+A template for new issues created within your repository which helps designers to phrase their thoughts in a more structured way.
+
+2. Design guidelines
+The juice for every designer. It should contain enough information and context on your project to help designers start contributing.
+
+
+## 🎓 The guides
 
 You can find the guides right here:
 
-- [**Minimal**](/1-minimal/DESIGN.md) – A single DESIGN.md in the root with the least amount of information designers require to be able to collaborate.
-- [**Basic**](/2-basic/.design) – If you want to keep your process scalabe – take this sample.
-- [**Extended**](3-extended/.design) – A more in deep example of good design contribution guidelines.
-- [**Full Fledged**](/4-full-fledged/.design) – Use this if you really want to shine at designers.
+- [**Minimal**](/1-minimal/) – A single DESIGN.md in the root with the least amount of information designers require to be able to collaborate.
+- [**Extended**](/2-extended/) – A more in deep example of good design contribution guidelines.
+- [**Full Fledged**](/3-full-fledged/) – Use this if you really want to shine at designers.
+
+
+## 🚀 Copy & Get started
+
+Copy the folders/files into your repository and you're ready to go.
 
 
 ## ❤️ Contribute to our guides
