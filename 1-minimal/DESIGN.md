@@ -8,7 +8,7 @@ A collection of design contribution guidelines and resources for our ACME produc
 
 ACME is a product targeted to every single person on earth. Since we manufacture everything on our own our product range is very big and affecting billions of users.
 
-Esessiantially this section here should give people a blurb about your project, what it does and what the mission of it is.
+Essentially this section here should give people a blurb about your project, what it does and what the mission of it is.
 
 ## 🚢 How to contribute design
 
